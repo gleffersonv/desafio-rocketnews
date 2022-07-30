@@ -1,0 +1,67 @@
+:root {
+  --body-bg-color: #121214;
+  --text-color: #E1E1E6;
+  --title-color: #04D361;
+  --form-color: #A8A8A8;
+  --bg-button-color: #8257e5;
+}
+
+body{
+    background: url(../img/read_news.jpg) no-repeat;
+    background-position: top right;
+    background-size: cover;
+}
+.main{
+  width: 100%;
+  max-width: 720px;
+  height: 800px;
+  background-color: var(--body-bg-color);
+}
+.container{
+  padding-top: 50px;
+}
+.text{
+  display: flex;
+  flex-direction: column;
+  width: 647px;
+  height: 102px;
+  margin-left: 36px;
+}
+.input-email{
+  display: flex;
+}
+.form-email{
+  margin-top: 50px;
+  color:var(--text-color);
+  width: 100%;
+  margin-left: 36px;
+  max-width: 798px;
+  height: 84px;
+  display: flex;
+}
+input{
+display: flex;
+width: 798px;
+}
+button{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-color:var(--bg-button-color);
+  width: 48px;
+  height: 48px;
+  border: #8257e5
+  }
+.link{
+    margin-left: 36px;
+    justify-content:space-between;
+    margin-top: 50px;
+  
+}
+.link a{
+  display: flex;
+}
+header{
+  padding-bottom: 92px;
+  padding-left: 30px;
+}
