@@ -14,7 +14,7 @@ body{
 .main{
   width: 100%;
   max-width: 720px;
-  height: 800px;
+  height: 100vh;
   background-color: var(--body-bg-color);
 }
 .container{
