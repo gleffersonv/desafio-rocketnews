@@ -1,35 +1,54 @@
 
-![68747470733a2f2f692e6962622e636f2f34674e4d4270422f696d6167652e706e67](https://user-images.githubusercontent.com/62262162/181994500-1987a08d-023e-4afb-93ca-87951329b84b.png)
-
+<h1 align="center">
+ RocketNews
+</h1>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT" alt="License">
+  <img alt="" src="https://user-images.githubusercontent.com/62262162/181994500-1987a08d-023e-4afb-93ca-87951329b84b.png" width="100%">
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+ <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=3793E8&labelColor=06187B" alt="License">
   
-  <img src="https://img.shields.io/github/forks/birobirobiro/lista-de-presenca?label=forks&message=MIT" alt="Forks">
+  <img src="https://img.shields.io/github/forks/gleffersonv/desafio-rocketnews?label=forks&message=MIT&color=3793E8&labelColor=06187B" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/birobirobiro/lista-de-presenca?label=stars&message=MIT" alt="Stars">
+  <img src="https://img.shields.io/github/stars/gleffersonv/desafio-rocketnews?label=stars&message=MIT&color=3793E8&labelColor=06187B " alt="Stars">
 </p>
 
-<h1>💻 Sobre o Desafio:</h1>
-<p>Desenvolva uma página para captação de leads ou newsletter.s.</p>
-
-<h2>Requisitos para o desafio:</h2>
-<p>
-- Neste desafio tinha que construir uma página para a captação de leads ou newsletter.
+<p align="center">
+  <img alt="" src=".github/logo-plane.svg" width="10%">
 </p>
 
+<br>
 
-## 🧪 Tecnologia
+<p align="center">
+  <img alt="" src=".github/preview-desktop.png" width="100%">
+</p>
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- <a href="https://www.figma.com/file/7gYvv3jAOt13aQc97mlIyb/DD-%2F-RocketNews-(Copy)?node-id=101%3A2">Layout</a>
-## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+## 🚧 Projeto
+
+Live Preview: <a href="http://gleffersonvicente.com.br/RocketNews/">RocketNews</a>
+
+## 🎨 Inspiração:
+
+Figma : <a href="https://www.figma.com/file/7gYvv3jAOt13aQc97mlIyb/DD-%2F-RocketNews-(Copy)?node-id=101%3A2">RocketNews</a>
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Made with 💜 by [Glefferson](https://www.gleffersonvicente.com.br) 👋
+Feito com ♥ by Glefferson
